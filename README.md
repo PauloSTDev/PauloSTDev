@@ -1,4 +1,4 @@
-<h1> Seja bem vindo(a) ao meu perfil, eu sou o Paulo Santos! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" size="20px"></h1>
+<h1> Seja bem vindo(a) ao meu perfil, eu sou o Paulo Santos! :wave: </h1>
 
 ## 🛠 &nbsp; Tecnologias que mais utilizo
 
@@ -17,5 +17,3 @@
 ## ⚙ &nbsp;GitHub Analytics
 ![top-langs]( https://github-readme-stats.vercel.app/api/top-langs?username=SadGitHubb&show_icons=true&theme=dark) <img src="https://github-readme-stats.vercel.app/api?username=SadGitHubb&show_icons=true&theme=dark" alt="SadGitHubb">
 </p>  
-
-
