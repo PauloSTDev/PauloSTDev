@@ -1,6 +1,6 @@
 <h1> Seja bem vindo(a) ao meu perfil, eu sou o Paulo Santos! :wave: </h1>
 
-## 🛠 &nbsp; Tecnologias que mais utilizo
+## 🛠 &nbsp; Tecnologias que mais utilizo são:
 
 <img align="center" alt="flutter"
      src="https://img.shields.io/badge/Flutter-61bde8?style=for-the-badge&logo=flutter&logoColor=237acc">
