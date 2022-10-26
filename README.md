@@ -15,5 +15,5 @@
      
 
 ## ⚙ &nbsp;GitHub Analytics
-![top-langs]( https://github-readme-stats.vercel.app/api/top-langs?username=PauloSTDev&show_icons=true&theme=dark) <img src="https://github-readme-stats.vercel.app/api?username=PauloSTDev&show_icons=true&theme=dark" alt="PauloSTDev">
+![top-langs]( https://github-readme-stats-p-pi.vercel.app/api/top-langs?username=PauloSTDev&show_icons=true&theme=dark) <img src="https://github-readme-stats-p-pi.vercel.app/api?username=PauloSTDev&show_icons=true&theme=dark" alt="PauloSTDev">
 </p>  
