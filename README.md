@@ -3,15 +3,21 @@
 ## 🛠 &nbsp; Tecnologias que mais utilizo são:
 
 <img align="center" alt="flutter"
-     src="https://img.shields.io/badge/Flutter-61bde8?style=for-the-badge&logo=flutter&logoColor=237acc">
+     src="https://img.shields.io/badge/Flutter-61bde8?&logo=flutter&logoColor=237acc">
      <img align="center" alt="dart"
-     src="https://img.shields.io/badge/Dart-38738f?style=for-the-badge&logo=dart&logoColor=61bde8">
+     src="https://img.shields.io/badge/Dart-38738f?&logo=dart">
+     <img align="center" alt="firebase"
+     src="https://img.shields.io/badge/Firebase-ed7418?&logo=firebase">
+     <img align="center" alt="swift"
+     src="https://img.shields.io/badge/Swift-orange?&logo=swift&logoColor=white">
+     <img align="center" alt="kotlin"
+     src="https://img.shields.io/badge/Kotlin-blue?&logo=kotlin">
      <img align="center" alt="javascript"
-     src="https://img.shields.io/badge/JavaScript-e3e039?style=for-the-badge&logo=javascript&logoColor=black">
+     src="https://img.shields.io/badge/JavaScript-black?&logo=javascript">
      <img align="center" alt="react"
-     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+     src="https://img.shields.io/badge/React-20232A?&logo=react">
      <img align="center" alt="nodejs"
-     src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+     src="https://img.shields.io/badge/Node.js-black?&logo=node.js">
      
 
 ## ⚙ &nbsp;GitHub Analytics
