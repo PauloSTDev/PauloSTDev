@@ -1,6 +1,6 @@
-<h1> Seja bem vindo(a) ao meu perfil, eu sou o Paulo Santos! :wave: </h1>
+<h1> Welcome to my profile, I'm Paulo Santos! :wave: </h1>
 
-## 🛠 &nbsp; Tecnologias que mais utilizo são:
+## 🛠 &nbsp; Technologies I use most are:
 
 <img align="center" alt="flutter"
      height="30"
@@ -18,7 +18,7 @@
           height="30"
      src="https://img.shields.io/badge/Kotlin-blue?&logo=kotlin">
      
-## 💆‍♂️ Outras tecnologias:
+## 💆‍♂️ Other technologies:
 
  <img align="center" alt="javascript"
       height="30"
