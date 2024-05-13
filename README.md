@@ -1,6 +1,6 @@
 <h1> Welcome to my profile, I'm Paulo Santos! :wave: </h1>
 
-## 🛠 &nbsp; Technologies I use most are:
+## 🛠 &nbsp; Technologies I use most:
 
 <img align="center" alt="flutter"
      height="30"
